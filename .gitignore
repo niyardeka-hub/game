@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+.firebase/
+.idea/
+*.swp
+*.swo
+*~
+.next/
+out/
+.cache/
+.parcel-cache/
+.venv/
+__pycache__/
